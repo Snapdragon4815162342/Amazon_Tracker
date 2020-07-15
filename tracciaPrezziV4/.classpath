@@ -6,11 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="lib" path="C:/Users/lorenzo/eclipse-workspace/tracciaPrezziV4/lib/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lorenzo/eclipse-workspace/tracciaPrezziV4/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lorenzo/eclipse-workspace/tracciaPrezziV4/lib/activation.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
